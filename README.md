@@ -1,1 +1,2 @@
 # staticapp
+Hello world!
